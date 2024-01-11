@@ -8,6 +8,6 @@ async function onSubmit(event) {
     // localStorage.setItem('token', JSON.stringify({
     //   token: data.token
     // }))
-    window.location.href = "/product"
+    window.location.href = "/products"
   // }
 }
